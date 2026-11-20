@@ -41,6 +41,7 @@ const benjamin = {
 | 💌 **[Lume Mail](https://lume-mail.cloud-ip.cc/)** | Meu assistente de IA para e-mails: automatiza a leitura, a organização e as respostas da caixa de entrada. [Versões de teste para Windows](https://github.com/Clarki7/lume-mail-downloads) |
 | 🏛️ **Office AI Hórus** | Escritório de agentes de IA organizados por departamentos, com matriz de permissões e regras de governança |
 | 🧠 **Hórus Vault** | Base de conhecimento pessoal em Obsidian, versionada com Git e sincronizada com servidor próprio |
+| 💳 **[Validador de Bandeira de Cartão](https://github.com/Clarki7/validador-bandeira-cartao)** | Identifica a bandeira (Visa, Mastercard, Elo, Hipercard…) e valida o número com o algoritmo de Luhn. JavaScript puro, com testes automatizados. [▶️ Testar online](https://clarki7.github.io/validador-bandeira-cartao/) |
 | 📈 **Central de Controle** | Painel de acompanhamento de solicitações, prioridades e indicadores para pequenos negócios |
 
 ---
